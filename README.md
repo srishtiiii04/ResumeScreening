@@ -1,6 +1,6 @@
 >>RESUME SCREENING SYSTEM
 This project implements a machine learning-based classification system to categorize resumes into predefined categories. The system preprocesses the data, balances classes, and uses multiple classifiers (KNN, SVM, Random Forest, Logistic Regression) to predict resume categories.
-Authors: Arshpreet Singh, Era Pathania
+Authors: Srishti Duggal
 
 >>FEATURES
 1. Data Preprocessing:
